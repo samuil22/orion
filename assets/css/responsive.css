@@ -1,0 +1,65 @@
+@media (max-width: 1199.98px) {  }
+@media (max-width: 991.98px) { 
+    .top-header{
+        display:none;
+    }
+    .main-nav-ul a{
+        text-align: center;
+    }
+    .main-nav{
+        background-color: #1414157d;
+    }
+    .banner{
+        top: unset;
+        margin-bottom: 30px ;
+    }
+} 
+@media (max-width: 767.98px) { }
+@media (max-width: 575.98px) {
+    .top-header{
+        display:none;
+    }
+    .navbar-brand img {
+        height: 43px;
+    }
+    .main-nav{
+        background-color: #1414157d;
+    }
+    .banner{
+        top: unset;
+        margin-bottom: 30px ;
+    }
+    .banner-text h1{
+        font-size: 30px;
+    }
+    .banner-text h4{
+        font-size: 13px;
+    }
+    .quick-wrapper { 
+        flex-direction: column;
+    }
+    .quick-link {
+        width: 100%;
+    }
+    .newsletter-wrapper {
+        flex-direction:column;
+    }
+    .product-text{
+        display:none;
+    }
+    .product-slider{
+        margin: 0 0 0 7%;
+    }
+    .newsletter-wrapper p{
+        padding-bottom: 15px;
+    }
+    .safety-shop-text h2{
+        padding-top: 15px;
+    }
+    .main-nav-ul a{
+        text-align: center;
+    }
+ }
+ .safety-shop, .certicali, .protection{
+    overflow: hidden;
+} 

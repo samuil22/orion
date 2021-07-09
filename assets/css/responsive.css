@@ -10,8 +10,8 @@
         background-color: #1414157d;
     }
     .banner{
-        top: unset;
-        margin-bottom: 30px ;
+        top: 68px;
+        margin-bottom: 88px;
     }
 } 
 @media (max-width: 767.98px) { }
@@ -26,8 +26,8 @@
         background-color: #1414157d;
     }
     .banner{
-        top: unset;
-        margin-bottom: 30px ;
+        top: 68px;
+        margin-bottom: 88px;
     }
     .banner-text h1{
         font-size: 30px;
